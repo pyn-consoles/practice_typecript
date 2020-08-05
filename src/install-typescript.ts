@@ -1,2 +1,2 @@
-const massage: string = 'Hello Typescript!';
+const massage: string = 'Hello ts-node!';
 console.log({ massage });
