@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pyn-consoles/practice_typecript/issues"
   },
-  "homepage": "https://github.com/pyn-consoles/practice_typecript#readme"
+  "homepage": "https://github.com/pyn-consoles/practice_typecript#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
 }
